@@ -9,7 +9,7 @@ Hey there! I'm [Your Name], a passionate web developer and designer with a knack
 - ⚡ Fun fact: I love combining technology with creativity to build innovative solutions.
 
 ## Get in Touch
-- 📧 Email: [your-email@example.com](mailto:9xhackedx9@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/mehul-bhattacharji-5895b428b)
+- 📧 Email: [9xhackedx9@gmail.com](mailto:9xhackedx9@gmail.com)
+- 💼 LinkedIn: [Mehul Bhattacharji](www.linkedin.com/in/mehul-bhattacharji-5895b428b)
 
 Thanks for visiting, and feel free to check out my repositories! 🚀
